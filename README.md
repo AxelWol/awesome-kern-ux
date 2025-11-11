@@ -1,6 +1,7 @@
 # KERN UX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Overview of the awesome KERN UX dev ecosystem.
+> Last change 11.11.2025
 
 ## Contents
 
