@@ -7,7 +7,6 @@
 - [Official resources](#official-resources)
 - [Community resources](#community-resources)
 
-
 ## Official resources
 
 - [@kern-ux/native (Plain-CSS-HTML-Kit)](https://www.npmjs.com/package/@kern-ux/native)
@@ -15,6 +14,16 @@
 - [Mattermost Chat](https://chat.kern-ux.de/default/channels/kern-produkt)
   - [React-Chat](https://chat.kern-ux.de/default/channels/react-kit-austausch)
 
+## KERN Labor
+
+- KERN Dialog Editor. Eine IDE für KERN.
+  - [Projekt](https://gitlab.opencode.de/kern-ux/kern-labor-projekte/kern-editor)
+  - [Applikation und Download als PWA](https://kern-editor-b1e851.usercontent.opencode.de/?pk_vid=56183159998e09a61762847486ce0de4)
+  
+- KERN Demo-Anwendungen. KI-unterstütze Entwicklung und Prototyping mit KERN.
+  - [Informationen](https://gitlab.opencode.de/kern-ux/kern-labor-projekte/kern-demo-anwendungen)
+  
+- [KERN Prototype Kit](https://gitlab.opencode.de/kern-ux/kern-labor-projekte/kern-node-express-prototype-kit)
 
 ## Community resources
 
@@ -39,6 +48,7 @@
 - [OneBitAhead kern-react](https://github.com/OneBitAhead/kern-react) (React Showcase for KERN UX, is the foundation of the KERN React-Kit)
 - [@document-writing-tools/kernux-react](https://gitlab.opencode.de/open-code/document-writing-tools/markdown-webbook/-/tree/v1/packages/kernux-react/src?ref_type=heads) (ZenDiS)
 - publicplan entwickelt gerade einen "vollständigen React Adapter" [Quelle](https://www.linkedin.com/feed/update/urn:li:activity:7348295449344131072?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7348295449344131072%2C7349431470068826113%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287349431470068826113%2Curn%3Ali%3Aactivity%3A7348295449344131072%29)
+- [Neue React-Umsetzung von publicplan](https://gitlab.opencode.de/kern-ux/kern-react-kit)
 
 ### Vue
 
@@ -70,6 +80,7 @@
 
 ### KoliBri
 
+- [Neue KoliBri Integration für KERN](https://gitlab.opencode.de/kern-ux/kern-developer-kit)
 - [Zusammenarbeit KoliBri und KERN UX](https://github.com/public-ui/kolibri/discussions/7986)
 - Neuentwicklung ist angekündigt [Quelle](https://www.kern-ux.de/ueber-kern/faq)
 
